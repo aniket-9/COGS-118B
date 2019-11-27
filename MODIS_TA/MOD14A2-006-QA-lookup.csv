@@ -1,0 +1,7 @@
+Value,land/water state,day/night observation
+0,water,night
+1,coast,night
+2,land,night
+4,water,day
+5,coast,day
+6,land,day
