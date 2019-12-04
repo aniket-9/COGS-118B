@@ -1,0 +1,10 @@
+diff a/data_extraction_nb.ipynb b/data_extraction_nb.ipynb	(rejected hunks)
+@@ -27,7 +27,7 @@
+     "from scipy.interpolate import griddata\n",
+     "import re\n",
+     "import xarray as xr\n",
+-    "import cartopy.crs as ccrs\n",
++    "#import cartopy.crs as ccrs\n",
+     "import matplotlib.pyplot as plt"
+    ]
+   },
